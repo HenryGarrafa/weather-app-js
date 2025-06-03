@@ -39,13 +39,3 @@ The app allows users to search for the current weather in any city and displays 
 - Working with timeouts to refresh data periodically  
 - Error handling and user input validation  
 
----
-
-## 💻 Installation
-
-To run the project locally:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/henrygarrafa/weather-app-js.git
-   cd weather-app-js
